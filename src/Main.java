@@ -62,10 +62,10 @@ public class Main {
         int milkWeight = 105;
         int iceCreamWeight = 100;
         int eggsWeight = 70;
-        int kilogramm = 1000;
+        int killogramm = 1000;
 
         int allWeights = (amountOfBananas * bananaWeight) + (amountOfMilk * milkWeight) + (amountOfIceCream * iceCreamWeight) + (amountOfEggs * eggsWeight);
-        System.out.println(allWeights / kilogramm);
+        System.out.println(allWeights / killogramm);
 
         int weightToLose = 7000;
         int losingWeightOne = 250;
